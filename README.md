@@ -1,2 +1,4 @@
-# git-github
-Giti e GitHub - Curso em Video
+# Git e GitHub
+Repositório criado para o versionamento e manipulaçäo de dados em Git e GitHub.
+
+Curso em video
